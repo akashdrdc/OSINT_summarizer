@@ -1,0 +1,5 @@
+{
+python summarize.py csv --job_id JOB_UUID --run_id RUN_UUID
+python summarize.py db --job_id JOB_UUID --run_id RUN_UUID
+python summarize.py deploy --job_id JOB_UUID --run_id RUN_UUID
+}
