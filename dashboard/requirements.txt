@@ -1,0 +1,9 @@
+
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+bertopic          # for topic modeling
+google-cloud-aiplatform  # Vertex AI Python SDK
